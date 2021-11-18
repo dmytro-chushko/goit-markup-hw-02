@@ -40,6 +40,7 @@ body {
 }
 
 .button {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -144,6 +145,7 @@ body {
 /* Features */
 
 .feature-title {
+  font-size: inherit;
   text-transform: uppercase;
 }
 
